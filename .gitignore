@@ -1,0 +1,3 @@
+# Ignora todos los archivos .dvc, excepto en el directorio data
+*.dvc
+!data/*.dvc
